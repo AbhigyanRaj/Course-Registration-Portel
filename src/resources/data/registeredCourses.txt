@@ -1,0 +1,3 @@
+Abhigyan23018@iiitd.ac.in;ECE301,ECE302,ECE303,ECE304,ECE305
+Sheel@iiitd.ac.in;CSSS303
+rahul@iiitd.ac.in;CSE301,CSE302

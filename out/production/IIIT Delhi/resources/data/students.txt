@@ -1,0 +1,5 @@
+Abhigyan Raj,Abhigyan23018@iiitd.ac.in,Abhigyan@1,CSE,3
+Sheel Gautam,Sheel@iiitd.ac.in,Sheel,CSE,3
+Rahul Gupta,rahul@iiitd.ac.in,Rahul@1,CSE,3
+Deepak Dev,deepak@iiitd.ac.in,Deepak@1,CSE,3
+Ashwin,Ashwin@iiitd.ac.in,Ashwin@1,CSE,3

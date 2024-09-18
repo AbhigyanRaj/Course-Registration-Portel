@@ -1,0 +1,119 @@
+# CSE (Computer Science and Engineering) Branch
+CSE102,Discrete Mathematics,CSE,1,4,None,Prof. S. Agarwal,Tue 10-12pm,RnD-A402
+CSE103,Introduction to Data Science,CSE,1,4,None,Prof. R. Gupta,Wed 2-4pm,OldAcad-C102
+CSE104,Digital Logic Design,CSE,1,4,None,Prof. K. Mehta,Fri 9-11am,LHC-C103
+CSE105,Computer Organization,CSE,1,4,None,Prof. V. Patel,Thu 3-5pm,RnD-A403
+CSE201,Data Structures and Algorithms,CSE,2,4,CSE101,Prof. A. Mehta,Fri 10-12pm
+CSE202,Operating Systems,CSE,2,4,CSE105,Prof. A. Bansal,Mon 11-1pm
+CSE203,Database Systems,CSE,2,4,CSE102,Prof. N. Kumar,Thu 1-3pm
+CSE204,Computer Networks,CSE,2,4,CSE103,Prof. R. Singh,Wed 9-11am
+CSE205,Software Engineering,CSE,2,4,None,Prof. M. Gupta,Tue 1-3pm
+CSE301,Machine Learning,CSE,3,4,CSE203,Prof. V. Patel,Wed 1-3pm
+CSE302,Artificial Intelligence,CSE,3,4,CSE301,Prof. M. Gupta,Thu 11-1pm
+CSE303,Advanced Algorithms,CSE,3,4,CSE201,Prof. P. Kumar,Fri 9-11am
+CSE304,Compiler Design,CSE,3,4,CSE202,Prof. A. Sinha,Tue 10-12pm
+CSE305,Distributed Systems,CSE,3,4,CSE204,Prof. R. Nair,Mon 2-4pm
+
+# ECE (Electronics and Communication Engineering) Branch
+ECE101,Circuit Theory,ECE,1,4,None,Prof. V. Rao,Mon 9-11am,RnD-A402
+ECE102,Introduction to Electronics,ECE,1,4,None,Prof. R. Mehta,Tue 10-12pm,old acad
+ECE103,Signals and Systems,ECE,1,4,None,Prof. N. Gupta,Wed 11-1pm,LHC-C101
+ECE104,Digital Signal Processing,ECE,1,4,None,Prof. S. Jain,Fri 9-11am,LHC201
+ECE105,Electromagnetic Theory,ECE,1,4,None,Prof. R. Sharma,Thu 2-4pm,RnD-A402
+ECE201,Analog Circuits,ECE,2,4,ECE101,Prof. M. Patel,Fri 10-12pm,old acad
+ECE202,Microprocessors,ECE,2,4,ECE102,Prof. D. Rao,Mon 1-3pm,old acad
+ECE203,Communication Systems,ECE,2,4,ECE103,Prof. T. Rao,Wed 3-5pm,RnD
+ECE204,Control Systems,ECE,2,4,ECE104,Prof. R. Gupta,Thu 9-11am,RnD-A402
+ECE205,VLSI Design,ECE,2,4,ECE105,Prof. S. Sen,Tue 11-1pm,old acad
+ECE301,Wireless Communication,ECE,3,4,ECE202,Prof. D. Singh,Mon 9-11am
+ECE302,Embedded Systems,ECE,3,4,ECE201,Prof. A. Bansal,Fri 11-1pm
+ECE303,Advanced Communication Systems,ECE,3,4,ECE203,Prof. K. Jain,Tue 2-4pm
+ECE304,Optical Fiber Communication,ECE,3,4,ECE204,Prof. P. Mehta,Thu 1-3pm
+ECE305,Nanoelectronics,ECE,3,4,ECE205,Prof. S. Patel,Wed 9-11am
+
+# CSAI (Computer Science and Artificial Intelligence) Branch
+CSAI101,Introduction to AI,CSAI,1,4,None,Prof. P. Singh,Mon 9-11am
+CSAI102,Mathematical Foundations of AI,CSAI,1,4,None,Prof. K. Gupta,Tue 10-12pm
+CSAI103,Introduction to Machine Learning,CSAI,1,4,None,Prof. V. Bansal,Wed 11-1pm
+CSAI104,Data Science with Python,CSAI,1,4,None,Prof. S. Shah,Fri 9-11am
+CSAI105,AI Ethics,CSAI,1,4,None,Prof. M. Gupta,Thu 2-4pm
+CSAI201,Neural Networks,CSAI,2,4,CSAI103,Prof. R. Singh,Mon 10-12pm
+CSAI202,Computer Vision,CSAI,2,4,CSAI101,Prof. S. Mehta,Tue 9-11am
+CSAI203,Natural Language Processing,CSAI,2,4,CSAI102,Prof. P. Sen,Fri 3-5pm
+CSAI204,Advanced Machine Learning,CSAI,2,4,CSAI201,Prof. V. Desai,Thu 1-3pm
+CSAI205,Deep Learning,CSAI,2,4,CSAI103,Prof. A. Saxena,Wed 2-4pm
+CSAI301,Reinforcement Learning,CSAI,3,4,CSAI204,Prof. N. Patel,Fri 11-1pm
+CSAI302,Robotics,CSAI,3,4,CSAI201,Prof. D. Mehta,Mon 3-5pm
+CSAI303,Advanced AI Techniques,CSAI,3,4,CSAI105,Prof. K. Gupta,Thu 9-11am
+CSAI304,AI for Healthcare,CSAI,3,4,CSAI203,Prof. R. Sen,Tue 2-4pm
+CSAI305,AI for Finance,CSAI,3,4,CSAI202,Prof. N. Rao,Wed 10-12pm
+
+# CSAM (Computer Science and Applied Mathematics) Branch
+CSAM101,Linear Algebra,CSAM,1,4,None,Prof. A. Bhattacharya,Mon 9-11am
+CSAM102,Calculus I,CSAM,1,4,None,Prof. R. Jain,Tue 10-12pm
+CSAM103,Probability Theory,CSAM,1,4,None,Prof. S. Patel,Wed 2-4pm
+CSAM104,Mathematical Modeling,CSAM,1,4,None,Prof. D. Shah,Fri 11-1pm
+CSAM105,Discrete Mathematics,CSAM,1,4,None,Prof. P. Gupta,Thu 1-3pm
+CSAM201,Real Analysis,CSAM,2,4,CSAM101,Prof. A. Rao,Mon 10-12pm
+CSAM202,Complex Analysis,CSAM,2,4,CSAM102,Prof. S. Gupta,Tue 11-1pm
+CSAM203,Stochastic Processes,CSAM,2,4,CSAM103,Prof. P. Das,Fri 9-11am
+CSAM204,Optimization Theory,CSAM,2,4,CSAM104,Prof. A. Bhargava,Thu 2-4pm
+CSAM205,Graph Theory,CSAM,2,4,CSAM105,Prof. R. Sen,Wed 1-3pm
+CSAM301,Partial Differential Equations,CSAM,3,4,CSAM201,Prof. A. Mehta,Mon 9-11am
+CSAM302,Number Theory,CSAM,3,4,CSAM202,Prof. V. Desai,Fri 10-12pm
+CSAM303,Advanced Optimization,CSAM,3,4,CSAM203,Prof. R. Sharma,Tue 3-5pm
+CSAM304,Combinatorics,CSAM,3,4,CSAM204,Prof. S. Gupta,Wed 11-1pm
+CSAM305,Dynamical Systems,CSAM,3,4,CSAM205,Prof. D. Nair,Thu 9-11am
+
+# CSD (Computer Science and Design) Branch
+CSD101,Introduction to Design,CSD,1,4,None,Prof. N. Singh,Mon 9-11am
+CSD102,Human-Computer Interaction,CSD,1,4,None,Prof. M. Shah,Tue 11-1pm
+CSD103,Visual Design Fundamentals,CSD,1,4,None,Prof. A. Gupta,Fri 10-12pm
+CSD104,Design Thinking,CSD,1,4,None,Prof. V. Nair,Thu 9-11am
+CSD105,Interaction Design,CSD,1,4,None,Prof. P. Desai,Wed 2-4pm
+CSD201,Game Design and Development,CSD,2,4,CSD101,Prof. R. Jain,Mon 10-12pm
+CSD202,Design Systems,CSD,2,4,CSD102,Prof. S. Gupta,Fri 2-4pm
+CSD203,User Experience Design,CSD,2,4,CSD103,Prof. K. Patel,Thu 3-5pm
+CSD204,Design and Data,CSD,2,4,CSD104,Prof. A. Mehta,Tue 9-11am
+CSD205,Digital Product Design,CSD,2,4,CSD105,Prof. R. Rao,Wed 11-1pm
+CSD301,Advanced UI/UX Design,CSD,3,4,CSD201,Prof. N. Sen,Fri 1-3pm
+CSD302,Design for Virtual Reality,CSD,3,4,CSD202,Prof. P. Sharma,Thu 10-12pm
+CSD303,Interaction Design for Mobile Devices,CSD,3,4,CSD203,Prof. K. Mehta,Mon 2-4pm
+CSD304,Information Visualization,CSD,3,4,CSD204,Prof. D. Gupta,Tue 1-3pm
+CSD305,Design for Wearable Devices,CSD,3,4,CSD205,Prof. R. Verma,Wed 9-11am
+
+# CSB (Computer Science and Biosciences) Branch
+CSB101,Introduction to Biology,CSB,1,4,None,Prof. N. Rao,Mon 9-11am
+CSB102,Cell Biology,CSB,1,4,None,Prof. S. Patel,Tue 10-12pm
+CSB103,Bioinformatics,CSB,1,4,None,Prof. A. Mehta,Wed 11-1pm
+CSB104,Biostatistics,CSB,1,4,None,Prof. P. Desai,Fri 9-11am
+CSB105,Molecular Biology,CSB,1,4,None,Prof. R. Gupta,Thu 1-3pm
+CSB201,Genomics and Proteomics,CSB,2,4,CSB101,Prof. S. Sen,Fri 2-4pm
+CSB202,Systems Biology,CSB,2,4,CSB102,Prof. R. Mehta,Mon 10-12pm
+CSB203,Biophysics,CSB,2,4,CSB103,Prof. D. Nair,Tue 11-1pm
+CSB204,Computational Biology,CSB,2,4,CSB104,Prof. K. Gupta,Wed 2-4pm
+CSB205,Bioinformatics Algorithms,CSB,2,4,CSB105,Prof. A. Saxena,Thu 9-11am
+CSB301,Advanced Computational Biology,CSB,3,4,CSB202,Prof. V. Bansal,Fri 10-12pm
+CSB302,Structural Bioinformatics,CSB,3,4,CSB201,Prof. P. Sharma,Tue 9-11am
+CSB303,Proteomics Data Analysis,CSB,3,4,CSB203,Prof. S. Shah,Wed 10-12pm
+CSB304,Systems Medicine,CSB,3,4,CSB204,Prof. M. Patel,Mon 3-5pm
+CSB305,Medical Genomics,CSB,3,4,CSB205,Prof. R. Sen,Thu 2-4pm
+
+# CSSS (Computer Science and Social Science) Branch
+CS101,CSE,1,4,None,Prof. A,Mon 10-12,Room 101
+CSSS102,Cryptography Basics,CSSS,1,4,None,Prof. R. Sen,Tue 10-12pm
+CSSS103,Computer Networks Security,CSSS,1,4,None,Prof. S. Patel,Wed 11-1pm
+CSSS104,Data Security,CSSS,1,4,None,Prof. K. Mehta,Fri 9-11am
+CSSS105,Ethical Hacking,CSSS,1,4,None,Prof. D. Gupta,Thu 1-3pm
+CSSS201,Advanced Cryptography,CSSS,2,4,CSSS102,Prof. V. Sen,Fri 10-12pm
+CSSS202,Malware Analysis,CSSS,2,4,CSSS101,Prof. R. Sharma,Mon 3-5pm
+CSSS203,Network Forensics,CSSS,2,4,CSSS103,Prof. P. Desai,Tue 11-1pm
+CSSS204,Web Security,CSSS,2,4,CSSS104,Prof. A. Patel,Wed 2-4pm
+CSSS205,Security Protocols,CSSS,2,4,CSSS105,Prof. V. Nair,Thu 9-11am
+CSSS301,Advanced Web Security,CSSS,3,4,CSSS204,Prof. R. Sen,Fri 9-11am
+CSSS302,Mobile Security,CSSS,3,4,CSSS203,Prof. S. Verma,Mon 2-4pm
+CSSS303,Cloud Security,CSSS,3,4,CSSS202,Prof. K. Patel,Wed 3-5pm
+
+
+
+

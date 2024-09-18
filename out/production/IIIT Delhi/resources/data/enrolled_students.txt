@@ -1,0 +1,5 @@
+CSE101,Abhigyan Raj,abhigyan@iiitd.ac.in,9.0
+CSE101,Deepak DEV,deepak@iiitd.ac.in,8.0
+CSE102,Sheel Mehta,sheel@iiitd.ac.in,7.2
+CSE102,Ashwin,Ashwin@iiitd.ac.in,7.5
+ECE101,Rahul Gupta,rahul@iiitd.ac.in,6.89

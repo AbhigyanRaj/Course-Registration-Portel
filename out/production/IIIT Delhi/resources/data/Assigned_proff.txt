@@ -1,0 +1,3 @@
+CSSS301,Proff@iiitd.ac.in,Samresh
+CSE102,Proff@iiitd.ac.in,Samresh
+CSAM101,Proff2@iiitd.ac.in,Proff2

@@ -1,0 +1,4 @@
+CSE101,Introduction to Programming,Proff1@iiitd.ac.in,4,Data Structures,50,Introduction to Programming,Mon 9-11am,Wed 2-4pm,A-203
+CSE102,Discrete Mathematics,Proff2@iiitd.ac.in,4,None,40,Discrete math principles and logic,Mon 11-12pm,Fri 2-3pm,B-202
+ECE101,Circuits and Systems,Proff1@iiitd.ac.in,4,Physics,60,Introduction to electrical circuits,Tue 10-12pm,Thu 4-6pm,C-101
+ECE101,Circuits and Systems,Proff2@iiitd.ac.in,4,Physics,60,Introduction to electrical circuits,Tue 10-12pm,Thu 4-6pm,C-101
